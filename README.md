@@ -8,10 +8,6 @@
 
 Senior Data Scientist at Apetito based in Bristol, UK. I'm passionate about transforming data into actionable insights through advanced analytics, machine learning, and interactive visualizations.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhi131096&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
 ## 🔧 Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -25,43 +21,57 @@ Senior Data Scientist at Apetito based in Bristol, UK. I'm passionate about tran
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 
+## 💼 Professional Experience & Impact
+
+### Apetito, Bristol, UK
+**Senior Data Scientist** (Aug 2024 - Present)
+- Designed and implemented comprehensive data strategies using SAP BW/SAC, improving decision-making accuracy by 35%
+- Delivered actionable insights that improved operational efficiency in warehousing and distribution by 28%
+- Developed ML models using TensorFlow/Scikit-learn, automating document processing and reducing manual data entry by 75%
+
+### BNY Mellon, Manchester, UK
+**Data Scientist** (Oct 2023 – Aug 2024)
+- Built and deployed NLP pipelines that reduced document processing time by 85% while maintaining 99.7% accuracy
+- Dockerized and operationalized ML applications on AWS, enabling scalable deployments that handled 10,000+ documents daily
+- Designed custom Excel analytics templates now used by finance leaders across 5 departments, standardizing reporting processes
+
+### Tata Consultancy Services, Bengaluru, India
+**Data Scientist** (Jun 2019 - Jun 2022)
+- Drove data analysis initiatives for key clients including Apple and HDFC, delivering insights that increased operational efficiency by 22%
+- Received "Performer of the Month" award for building client trust and contributing to company growth
+- Led development of SQL scripts during aggressive 2-week deadline for high-profile Apple product launch, ensuring on-time delivery
+
 ## 🚀 Featured Projects
 
-### [Warehouse Optimization & Predictive Analytics](https://github.com/abhi131096/warehouse-optimization)
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhi131096/warehouse-optimization/main/assets/dashboard-preview.png" alt="Project Image" />
+### Warehouse Optimization & Predictive Analytics
 
 - Developed an AI-driven workforce planning system that predicted staffing requirements and optimized shift patterns
 - Implemented Prophet for time series forecasting and XGBoost for translating order volumes to staffing needs
 - Reduced labor costs by 18% while improving fulfillment rates to 99.3%
 - **Tech Stack**: Python, Prophet, XGBoost, AWS, Snowflake, Power BI
 
-<br clear="right"/>
-
-### [Restaurant Reviews Classification (NLP)](https://github.com/abhi131096/Restaurant-Reviews-Classification-_NLP)
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhi131096/Restaurant-Reviews-Classification-_NLP/main/assets/sentiment-analysis.png" alt="Project Image" />
+### Restaurant Reviews Classification (NLP)
 
 - Developed an NLP model to predict whether restaurant reviews are positive or negative
 - Implemented text preprocessing, feature extraction, and multiple classification algorithms
 - Achieved 85% accuracy in sentiment prediction
 - **Tech Stack**: Python, NLTK, Scikit-learn, Pandas
 
-<br clear="right"/>
-
-### [Power BI Dashboard](https://github.com/abhi131096/Power-BI-Dashboard)
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhi131096/Power-BI-Dashboard/main/assets/dashboard-preview.png" alt="Project Image" />
+### Power BI Dashboard
 
 - Transformed static Excel-based warehouse reports into an interactive Power BI dashboard
 - Improved data visibility and decision-making efficiency by 40%
 - Created custom DAX measures and dynamic visuals for real-time insights
 - **Tech Stack**: Power BI, DAX, SQL, Excel
 
-<br clear="right"/>
+## 🎓 Education
 
-## 📊 My GitHub Stats
+**University of Liverpool, Liverpool, UK** (Sep 2022 – Sep 2023)  
+Master of Science (MS) in Business Analytics and Big Data | Grade: 2:1
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi131096&theme=dark" alt="GitHub Streak" />
-</div>
+**Jaypee University of Engineering and Technology, India** (Aug 2015 – Jun 2019)  
+Bachelor of Technology in Computer Science (B.Tech) | CGPA: 8.5/10  
+*Vice Chancellor's gold medalist for securing the highest CGPA in the department*
 
 ## 🌱 Current Focus
 
@@ -74,9 +84,3 @@ Senior Data Scientist at Apetito based in Bristol, UK. I'm passionate about tran
 
 - LinkedIn: [abhisheksrivastava1310](https://www.linkedin.com/in/abhisheksrivastava1310/)
 - Email: [abhisheksri2013@gmail.com](mailto:abhisheksri2013@gmail.com)
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhi131096&color=blueviolet&style=flat-square" alt="Profile views" />
-</div>
