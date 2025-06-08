@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhi131096)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhisheksri2013@gmail.com)
 
-## 👋 Hello, I'm Abhishek!
+##  Hello, I'm Abhishek!
 
 Senior Data Scientist at Apetito based in Bristol, UK. I'm passionate about transforming data into actionable insights through advanced analytics, machine learning, and interactive visualizations.
 
