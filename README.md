@@ -6,7 +6,7 @@
 
 ##  Hello, I'm Abhishek!
 
-Senior Data Scientist at Apetito based in Bristol, UK. I'm passionate about transforming data into actionable insights through advanced analytics, machine learning, and interactive visualizations.
+Senior Data prof at Apetito based in Bristol, UK. I'm passionate about transforming data into actionable insights through advanced analytics, machine learning, and interactive visualizations.
 
 ## 🔧 Technologies & Tools
 
@@ -24,7 +24,7 @@ Senior Data Scientist at Apetito based in Bristol, UK. I'm passionate about tran
 ## 💼 Professional Experience & Impact
 
 ### Apetito, Bristol, UK
-**Senior Data Scientist** (Aug 2024 - Present)
+**Senior Data professional** (Aug 2024 - Present)
 - Designed and implemented comprehensive data strategies using SAP BW/SAC, improving decision-making accuracy by 35%
 - Delivered actionable insights that improved operational efficiency in warehousing and distribution by 28%
 - Developed ML models using TensorFlow/Scikit-learn, automating document processing and reducing manual data entry by 75%
