@@ -25,10 +25,10 @@ Senior Data/AI Scientist with 7+ years of experience. I'm passionate about trans
 
 ### Apetito, Bristol, UK
 **Senior Data professional** (Aug 2024 - Present)
-- Designed and implemented comprehensive data strategies using SAP BW/SAC, improving decision-making accuracy by 35%
-- Delivered actionable insights that improved operational efficiency in warehousing and distribution by 28%
-- Developed ML models using TensorFlow/Scikit-learn, automating document processing and reducing manual data entry by 75%
-
+- AI Workforce Analytics: Engineered ML-powered manpower optimization system using LSTM neural networks and time series decomposition, achieving 25% efficiency improvement and £200K+ annual cost savings through intelligent staffing predictions
+- Real-Time Analytics Infrastructure: Built end-to-end automated data pipelines processing 1M+ daily records from SAP, IOT sensors, and voice systems using Python/SQL, reducing manual analysis time by 80% and enabling real-time operational decisions
+- Cross-Functional ML Leadership: Led AI transformation across warehouse operations, logistics, and customer service teams, establishing data-driven KPI frameworks and conducting weekly performance optimization sessions with C-suite executives
+  
 ### BNY Mellon, Manchester, UK
 **AI Lead** (Oct 2023 – Aug 2024)
 - Built and deployed NLP pipelines that reduced document processing time by 85% while maintaining 99.7% accuracy
