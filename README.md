@@ -6,7 +6,7 @@
 
 ##  Hello, I'm Abhishek!
 
-Senior Data prof at Apetito based in Bristol, UK. I'm passionate about transforming data into actionable insights through advanced analytics, machine learning, and interactive visualizations.
+Senior Data/AI Scientist with 7+ years of experience. I'm passionate about transforming data into actionable insights through advanced analytics, machine learning, and interactive visualizations.
 
 ## 🔧 Technologies & Tools
 
