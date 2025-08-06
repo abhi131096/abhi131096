@@ -30,7 +30,7 @@ Senior Data/AI Scientist with 7+ years of experience. I'm passionate about trans
 - Developed ML models using TensorFlow/Scikit-learn, automating document processing and reducing manual data entry by 75%
 
 ### BNY Mellon, Manchester, UK
-**Data Scientist** (Oct 2023 – Aug 2024)
+**AI Lead** (Oct 2023 – Aug 2024)
 - Built and deployed NLP pipelines that reduced document processing time by 85% while maintaining 99.7% accuracy
 - Dockerized and operationalized ML applications on AWS, enabling scalable deployments that handled 10,000+ documents daily
 - Designed custom Excel analytics templates now used by finance leaders across 5 departments, standardizing reporting processes
