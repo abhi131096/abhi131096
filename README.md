@@ -1,4 +1,4 @@
-# Abhishek Srivastava | Data Professional
+# Abhishek Srivastava
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhisheksrivastava1310/)
 [![GenAI Project](https://img.shields.io/badge/GenAI_Project-764BA2?style=for-the-badge&logo=rocket&logoColor=white)](https://abhi131096.github.io/Gen-AI-optimization/)
@@ -24,7 +24,7 @@ Senior Data/AI Scientist with 7+ years of experience. I'm passionate about trans
 ## 💼 Professional Experience & Impact
 
 ### Apetito, Bristol, UK
-**Senior Data professional** (Aug 2024 - Present)
+**Senior Data Sc** (Aug 2024 - Present)
 - AI Workforce Analytics: Engineered ML-powered manpower optimization system using LSTM neural networks and time series decomposition, achieving 25% efficiency improvement and £200K+ annual cost savings through intelligent staffing predictions
 - Real-Time Analytics Infrastructure: Built end-to-end automated data pipelines processing 1M+ daily records from SAP, IOT sensors, and voice systems using Python/SQL, reducing manual analysis time by 80% and enabling real-time operational decisions
 - Cross-Functional ML Leadership: Led AI transformation across warehouse operations, logistics, and customer service teams, establishing data-driven KPI frameworks and conducting weekly performance optimization sessions with C-suite executives
